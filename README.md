@@ -1,10 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mahesh N</h1>
-<h3 align="center">Right now, I'm focused on mastering frontend development.</h3>
+# Hi there, I'm Mahesh! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahesh-18-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-18-n" height="30" width="40" /></a>
-</p>
+I'm a passionate about FullStack Development with a love for coding and problem-solving. I enjoy working on various tech stacks and always eager to learn new technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- 🌱 I’m currently learning advanced React and Node.js.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about JavaScript, or any tech-related topics.
+- 📫 How to reach me: maheshn0418@gmail.com
+
+## 🛠️ Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+## 📈 GitHub Stats
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshN1821&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/mahesh-18-n)
+
+Feel free to reach out if you want to collaborate on a project or just want to say hi! 😊
