@@ -2,59 +2,22 @@
 
 Full-Stack Developer from Bengaluru. I build end-to-end web applications - from React and Next.js frontends to Node.js/Express and FastAPI backends, with a growing focus on integrating AI into real-world tools.
 
-Portfolio: https://mahesh-n-portfolio.vercel.app/
-LinkedIn: https://linkedin.com/in/mahesh-18-n
-E-mail: maheshn0418@gmail.com  
-
+- Portfolio: [mahesh-n-portfolio.vercel.app](https://mahesh-n-portfolio.vercel.app/)
+- LinkedIn: [linkedin.com/in/mahesh-18-n](https://linkedin.com/in/mahesh-18-n/)
+- E-mail: <maheshn0418@gmail.com>
+  
 ---
 
 ## What I'm working with
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=cplusplus)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-333333?style=flat&logo=framer)
-![React Query](https://img.shields.io/badge/React_Query-333333?style=flat&logo=reactquery)
-![Zustand](https://img.shields.io/badge/Zustand-333333?style=flat&logo=react)
-![Recharts](https://img.shields.io/badge/Recharts-333333?style=flat&logo=react)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi)
-![Socket.io](https://img.shields.io/badge/Socket.io-333333?style=flat&logo=socket.io)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
-
-**AI & Integrations**
-
-![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-333333?style=flat&logo=perplexity)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-333333?style=flat&logo=google)
-![Groq](https://img.shields.io/badge/Groq-333333?style=flat&logo=groq)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-333333?style=flat&logo=cloudinary)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-333333?style=flat&logo=gmail)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat&logo=vercel)
-![VS Code](https://img.shields.io/badge/VS_Code-333333?style=flat&logo=visual-studio-code)
+| Category | Technologies |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge) ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) |
+| **AI & Integrations** | ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-1C3C3C?logo=perplexity&logoColor=white&style=for-the-badge) ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white&style=for-the-badge) ![Groq](https://img.shields.io/badge/Groq-FF6F61?style=for-the-badge&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=for-the-badge) ![Nodemailer](https://img.shields.io/badge/Nodemailer-D14836?logo=gmail&logoColor=white&style=for-the-badge) |
+| **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge) |
 
 ---
 
@@ -124,9 +87,13 @@ E-mail: maheshn0418@gmail.com
 
 ## GitHub Stats
 
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshN1821&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshN1821&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshN1821&theme=tokyonight&hide_border=true&show=total_contributions,current_streak,longest_streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshN1821&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-📬 Open to full-stack and frontend roles — [maheshn0418@gmail.com](mailto:maheshn0418@gmail.com)
+Open to full-stack and frontend roles — [maheshn0418@gmail.com](mailto:maheshn0418@gmail.com)
