@@ -84,13 +84,4 @@ Full-Stack Developer from Bengaluru. I build end-to-end web applications - from 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=MaheshN1821&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MaheshN1821&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 Open to full-stack and frontend roles - [maheshn0418@gmail.com](mailto:maheshn0418@gmail.com)
