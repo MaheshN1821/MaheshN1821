@@ -27,13 +27,13 @@ Full-Stack Developer from Bengaluru. I build end-to-end web applications - from 
 |--------|-------------|-------|
 | [Vigilant](https://vigilant-cyberx.vercel.app/) | AI-powered Windows system monitor — detects crash risk before it happens | MERN · Perplexity AI · Windows Agent |
 | [KnowYourMED](https://know-your-medicine.vercel.app/) | Scan a medicine QR code → get composition, dosage, alternatives, reminders | MERN · OpenFDA · Google Translate · Nodemailer |
-| [Pharmaassure](https://github.com/MaheshN1821/hackathon) | Real-time hospital drug inventory with warehouse-to-pharmacy transfer tracking | MERN · Socket.io · Nodemailer |
+| [Pharmaassure](https://pharma-assure.vercel.app/) | Real-time hospital drug inventory with warehouse-to-pharmacy transfer tracking | MERN · Socket.io · Nodemailer |
 | [Order-to-Cash Graph](https://order-to-cash-graph-steel.vercel.app/) | Ask questions in plain English over SAP ERP data; LLM generates and self-heals SQL | FastAPI · Groq · Sigma.js · SQLite |
 | [Axiom Trade Pulse](https://axiom-trade-pulse-mahesh.vercel.app/) | Real-time Solana token trading table with WebSocket live updates | Next.js · TypeScript · React Query · WebSockets |
 | [Neuro Quiz](https://quiz-jmux.vercel.app) | Adaptive quiz platform — difficulty adjusts in real time; AI-generated result analysis | MERN · Gemini AI · Framer Motion |
 | [Pharmacy EMR](https://pharmacy-emr-umber.vercel.app/) | Inventory, sales, and purchase order management for pharmacies | FastAPI · PostgreSQL · React |
 | [Celestial](https://celestial-hub-one.vercel.app/) | E-commerce marketplace for mobile devices with full buyer and seller interfaces | MERN · Cloudinary · Framer Motion |
-| [Finly](https://github.com/MaheshN1821) | Personal finance dashboard with transaction management, charts, and insights | React 19 · Recharts · Tailwind CSS |
+| [Finly](https://finance-dashboard-three-iota.vercel.app/) | Personal finance dashboard with transaction management, charts, and insights | React 19 · Recharts · Tailwind CSS |
 
 ---
 
@@ -41,7 +41,7 @@ Full-Stack Developer from Bengaluru. I build end-to-end web applications - from 
 
 ### Vigilant — AI-Powered System Monitoring Platform  
 <span style="color:gray">Proactive system health analytics and risk detection for Windows environments. Real-time agent, backend in Node.js, AI-powered anomaly analysis with Perplexity Sonar-Pro.</span>  
-[Live Site](https://vigilant-cyberx.vercel.app/) &nbsp;|&nbsp; [Docs/Details](#)
+[Live Site](https://vigilant-cyberx.vercel.app/) &nbsp;|&nbsp; [Docs/Details](https://github.com/MaheshN1821/vigilant)
 
 ---
 
@@ -53,13 +53,13 @@ Full-Stack Developer from Bengaluru. I build end-to-end web applications - from 
 
 ### Neuro Quiz — Adaptive Assessment Platform  
 <span style="color:gray">Adaptive quiz engine with AI-driven analytics, real-time feedback, and progress reporting. Implements dynamic difficulty, Google Gemini analysis, and advanced reporting.</span>  
-[Front-End](https://quiz-jmux.vercel.app/) &nbsp;|&nbsp; [Backend](https://quiz-woad-pi.vercel.app/)
+[Front-End](https://quiz-jmux.vercel.app/) &nbsp;|&nbsp; [Repo](https://github.com/MaheshN1821/quiz)
 
 ---
 
 ### Pharmassure — Medical Inventory & Supply Chain System  
 <span style="color:gray">Real-time pharmaceutical inventory system for hospitals: warehouse tracking, expiry prediction, and automated alerting. Built with MERN and live Socket.io updates.</span>  
-[Repository](https://github.com/MaheshN1821/hackathon)
+[Repository](https://github.com/MaheshN1821/pharmaassure)
 
 ---
 
